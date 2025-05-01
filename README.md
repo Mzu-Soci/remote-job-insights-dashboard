@@ -60,7 +60,7 @@ This interactive dashboard provides a high-level analysis of the global **remote
 
 ### 🗺️ Third Row - Charts
 
-- **Top 10 Companies Hiring Remotely** (Bar Chart)
+- **Top Companies Hiring Remotely** (Bar Chart)
   - X-axis: Company name  
   - Y-axis: Number of jobs  
 
