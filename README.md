@@ -8,9 +8,13 @@
 
 This interactive dashboard provides a high-level analysis of the global **remote job market**, built using live job listing data from the **Remotive API**. It enables users to explore remote hiring trends by company, category, location, and date — delivering actionable insights for job seekers, recruiters, and workforce strategists.
 
-![Dashboard Preview](dashboard-preview.png)
-![Dashboard Preview](dashboard-preview_1.png)
-![Dashboard Preview](dashboard-preview_2.png)
+
+## 📸 Screenshots
+
+![Dashboard Screenshot](images/dashboard-preview.jpg)
+![Dashboard Screenshot 1](images/dashboard-preview_1.jpg)
+![Dashboard Screenshot 2](images/dashboard-preview_2.jpg)
+
 ---
 
 ## 🎯 Key Objectives
