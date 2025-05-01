@@ -11,7 +11,7 @@ This interactive dashboard provides a high-level analysis of the global **remote
 
 ## 📸 Screenshots
 
-![Dashboard Screenshot](images/dashboard-preview.jpg)
+![Dashboard Screenshot](./images/dashboard-preview.jpg)
 ![Dashboard Screenshot 1](images/dashboard-preview_1.jpg)
 ![Dashboard Screenshot 2](images/dashboard-preview_2.jpg)
 
